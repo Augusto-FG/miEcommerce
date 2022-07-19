@@ -1,4 +1,4 @@
-# miEcommerce-grupo1
+# miEcommerce
 ## Tecnologías usadas:
 * NodeJS
 * CSS
